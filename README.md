@@ -1,6 +1,5 @@
 # Netflix-User-Behavior-Analysis
-This Project is focused on analyzing Netflix user behavior.
-This project explores and analyzes user behavior on a video streaming platform (like Netflix) using Python and data visualization techniques. The goal is to extract insights from user interaction patterns, such as preferred genres, watch time, and viewing trends, to guide recommendations and strategic decisions.
+This project explores and analyzes user behavior on a video streaming platform like Netflix using Python and data visualization techniques. The goal is to extract insights from user interaction patterns, such as preferred genres, watch time, and viewing trends, to guide recommendations and strategic decisions.
 
 ## Project Structure
 
