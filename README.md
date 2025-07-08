@@ -48,7 +48,7 @@ The project performs a range of behavioral analyses, including:
 
 1. Clone the repository:
    
-   `git clone https://github.com/your-username/netflix-user-analysis.git
+   `git clone https://github.com/AnkamSaiPrasad/netflix-user-analysis.git
    cd netflix-user-analysis`
    #### If the above command didn't work
    you can also do this by placing the `Sourcecode.ipynb` and `netflix_dataset.csv` in same folder.
