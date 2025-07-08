@@ -46,3 +46,25 @@ The project performs a range of behavioral analyses, including:
 - **PDF/Images** for showcasing visual output
 
 ## How to Run
+
+1. Clone the repository:
+   
+   `git clone https://github.com/your-username/netflix-user-analysis.git
+   cd netflix-user-analysis`
+   #### If the above command didn't work
+   you can also do this by placing the `Sourcecode.ipynb` and `netflix_dataset.csv` in same folder.
+   
+3. Install required packages:
+  
+   `pip install pandas matplotlib seaborn jupyter`
+  
+3. Launch the notebook:
+
+   `jupyter notebook Sourcecode.ipynb`
+  
+4. Run each cell to see the model training and forecasting in action.
+
+## Author
+#### Ankam Sai prasad
+#### B.Tech in Data Science
+#### Email: ankamsaiprasad13@gmail.com
