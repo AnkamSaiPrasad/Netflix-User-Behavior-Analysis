@@ -61,7 +61,7 @@ The project performs a range of behavioral analyses, including:
 
    `jupyter notebook Sourcecode.ipynb`
   
-4. Run each cell to see the model training and forecasting in action.
+4. Run each cell for better understanding.
 
 ## Author
 #### Ankam Sai prasad
