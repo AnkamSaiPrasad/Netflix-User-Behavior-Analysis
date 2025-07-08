@@ -38,8 +38,8 @@ The project performs a range of behavioral analyses, including:
 ## Technologies Used
 
 - **Python**
-  - `pandas` for data manipulation
-  - `matplotlib`, `seaborn` for data visualization
+- `pandas` for data manipulation
+- `matplotlib`, `seaborn` for data visualization
 - **Jupyter Notebook** for code execution and documentation
 - **CSV** for structured data input
 - **PDF/Images** for showcasing visual output
